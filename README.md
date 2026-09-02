@@ -97,7 +97,40 @@ Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys buildi
 
 I am continuously building projects to improve my development skills and gain practical experience.
 
-<!-- Add your best projects here -->
+### 🌐 Genflyo Website
+
+A modern and responsive website built with **Next.js** and **Tailwind CSS**.
+
+<p>
+  🔗 <a href="https://genflyo-website.vercel.app/" target="_blank">Live Demo</a>
+  &nbsp; | &nbsp;
+  🔗 <a href="https://github.com/atiurcodes/genflyo-website" target="_blank">GitHub Repository</a>
+</p>
+
+**Tech Stack:** Next.js • React • Tailwind CSS • JavaScript
+
+### 💼 Personal Portfolio
+
+My personal portfolio website showcasing my skills, projects, and web development journey.
+
+<p>
+  🔗 <a href="https://nextjs-portfolio-pi-silk.vercel.app/" target="_blank">Live Demo</a>
+  &nbsp; | &nbsp;
+  🔗 <a href="https://github.com/atiurcodes/portfolio" target="_blank">GitHub Repository</a>
+</p>
+**Tech Stack:** Next.js • React • Tailwind CSS • JavaScript
+
+### 🎨 HTML Project
+
+A simple and responsive website built using **HTML5** and **CSS3**.
+
+<p>
+  🔗 <a href="https://atiurcodes.github.io/html-project/" target="_blank">Live Demo</a>
+  &nbsp; | &nbsp;
+  🔗 <a href="https://github.com/atiurcodes/html-project" target="_blank">GitHub Repository</a>
+</p>
+
+**Tech Stack:** HTML5 • CSS3
 
 ---
 
