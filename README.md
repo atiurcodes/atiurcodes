@@ -98,18 +98,21 @@ I'm continuously learning and improving my web development skills by building pr
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Atiur's GitHub Statistics"
   />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atiurcodes&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=atiurcodes&theme=tokyonight&hide_border=true"
+    alt="Atiur's GitHub Streak"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiurcodes&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiurcodes&layout=compact&theme=tokyonight&hide_border=true"
     alt="Atiur's Top Languages"
   />
 </p>
