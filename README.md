@@ -97,7 +97,10 @@ I'm continuously learning and improving my web development skills by building pr
 ## 📊 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight"
+    alt="Atiur's GitHub Statistics"
+  />
 </p>
 
 <p align="center">
@@ -105,16 +108,13 @@ I'm continuously learning and improving my web development skills by building pr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiurcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Atiur's Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiurcodes&layout=compact&theme=tokyonight"
+    alt="Atiur's Top Languages"
+  />
 </p>
 
 ---
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atiurcodes&label=Profile%20Views&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
