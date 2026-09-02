@@ -3,12 +3,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Hi%20There,%20I'm%20Atiur%20Rahman!&fontSize=38&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
-# Hi 👋, I'm Atur Rahman
-### 🔭 I build things with JavaScript, React, and Node.js
+<h1>Hi 👋, I'm Atur Rahman</h1>
+<h2> 🔭 I build things with JavaScript, React, and Node.js</h2>
 
-<h1 align="center">Aspiring Full-Stack Web Engineer 🚀</h1>
+<h1>Aspiring Full-Stack Web Engineer 🚀</h1>
 
-<p align="center">
+<p>
   📍 <strong>Birganj, Dinajpur, Bangladesh</strong> &nbsp;|&nbsp;
   ✉️ <a href="mailto:YOUR-EMAIL@gmail.com">YOUR-EMAIL@gmail.com</a>
 </p>
