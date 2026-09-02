@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Hi%20There,%20I'm%20Atiur%20Rahman!&fontSize=38&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
-
+# Hi 👋, I'm <YOUR NAME>  
+### 🔭 I build things with JavaScript, React, and Node.js
 <h1 align="center">Aspiring Full-Stack Web Engineer 🚀</h1>
 
 <p align="center">
