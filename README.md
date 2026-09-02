@@ -8,7 +8,7 @@
 
 <p align="center">
   📍 <strong>Dhaka, Bangladesh</strong> &nbsp;|&nbsp;
-  ✉️ <a href="mailto:YOUR-EMAIL@gmail.com">YOUR-EMAIL@gmail.com</a>
+  ✉️ <a href="mailto:YOUR-EMAIL@gmail.com">atiurcodes@gmail.com</a>
 </p>
 
 ---
