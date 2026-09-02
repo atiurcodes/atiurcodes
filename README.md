@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Hi%20There,%20I'm%20Atiur%20Rahman!&fontSize=38&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="banner.png" width="100%" alt="Header Banner" />
 </div>
 <h1 align='center'>Hi 👋, I'm Atiur Rahman</h1>
 <h2 align='center'>Aspiring Full-Stack Web Engineer 🚀</h2>
