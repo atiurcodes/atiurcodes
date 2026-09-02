@@ -3,12 +3,16 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Header Banner" />
 </div>
-<h1 align='center'>Hi 👋, I'm Atiur Rahman</h1>
-<h2 align='center'>Aspiring Full-Stack Web Engineer 🚀</h2>
 
-<p>
-  📍 <strong>Birganj, Dinajpur, Bangladesh</strong> &nbsp;|&nbsp;
-  ✉️ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atiurcodes@gmail.com" target="_blank">
+<h1 align="center">Hi 👋, I'm Atiur Rahman</h1>
+
+<h2 align="center">Aspiring Full-Stack Web Engineer 🚀</h2>
+
+<p align="center">
+  📍 <strong>Birganj, Dinajpur, Bangladesh</strong>
+  &nbsp; | &nbsp;
+  ✉️
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atiurcodes@gmail.com" target="_blank">
     atiurcodes@gmail.com
   </a>
 </p>
@@ -19,13 +23,13 @@
 
 Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys building modern, clean, and user-friendly web applications.
 
-* 🎓 Currently learning Web Development through **Programming Hero — Batch 14**
-* 💻 Building projects to strengthen my frontend and problem-solving skills
-* 🧠 Improving my logical thinking through regular problem-solving practice
-* 🚀 Currently focusing on **React.js, TypeScript, and Next.js**
-* 🌱 Preparing to learn **Node.js, Express.js, and MongoDB**
-* 🎯 My goal is to become a **Full-Stack AI-Powered Web Engineer**
-* ⚡ I believe in learning consistently, building projects, and improving every day
+- 🎓 Currently learning Web Development through **Programming Hero — Batch 14**
+- 💻 Building projects to strengthen my frontend and problem-solving skills
+- 🧠 Improving my logical thinking through regular problem-solving practice
+- 🚀 Currently focusing on **React.js, TypeScript, and Next.js**
+- 🌱 Preparing to learn **Node.js, Express.js, and MongoDB**
+- 🎯 My goal is to become a **Full-Stack AI-Powered Web Engineer**
+- ⚡ I believe in learning consistently, building projects, and improving every day
 
 ---
 
@@ -51,6 +55,27 @@ Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys buildi
 
 ---
 
+## 🌱 My Learning Journey
+
+I'm continuously learning and improving my web development skills by building projects and solving programming problems.
+
+### 📚 Currently Learning
+
+- ⚛️ React.js
+- 🔷 TypeScript
+- ▲ Next.js
+- 🧩 JavaScript & Problem Solving
+- 📱 Responsive Web Development
+
+### 🚀 Next on My Learning Path
+
+- 🟢 Node.js
+- ⚡ Express.js
+- 🍃 MongoDB
+- 🤖 AI-Powered Web Development
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
@@ -69,14 +94,26 @@ Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys buildi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Journey
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Statistics" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=atiurcodes&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiurcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Atiur's Top Languages" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atiurcodes&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -87,7 +124,7 @@ I am continuously building projects to improve my development skills and gain pr
 
 ### 🌐 Genflyo Website
 
-A modern and responsive website built with **Next.js** and **Tailwind CSS**.
+A modern and responsive website built with **Next.js**, **React**, and **Tailwind CSS**.
 
 <p>
   🔗 <a href="https://genflyo-website.vercel.app/" target="_blank">Live Demo</a>
@@ -96,6 +133,8 @@ A modern and responsive website built with **Next.js** and **Tailwind CSS**.
 </p>
 
 **Tech Stack:** Next.js • React • Tailwind CSS • JavaScript
+
+---
 
 ### 💼 Personal Portfolio
 
@@ -106,7 +145,10 @@ My personal portfolio website showcasing my skills, projects, and web developmen
   &nbsp; | &nbsp;
   🔗 <a href="https://github.com/atiurcodes/portfolio" target="_blank">GitHub Repository</a>
 </p>
+
 **Tech Stack:** Next.js • React • Tailwind CSS • JavaScript
+
+---
 
 ### 🎨 HTML Project
 
@@ -124,12 +166,12 @@ A simple and responsive website built using **HTML5** and **CSS3**.
 
 ## 🎯 2026 Goals
 
-* 🚀 Become a strong Full-Stack Web Engineer
-* ⚛️ Build more real-world React and Next.js projects
-* 🧩 Improve problem-solving and algorithmic thinking
-* 🌐 Learn backend development with Node.js, Express.js & MongoDB
-* 🤖 Explore AI-powered web development
-* 💼 Become job-ready and start my professional career
+- 🚀 Become a strong Full-Stack Web Engineer
+- ⚛️ Build more real-world React and Next.js projects
+- 🧩 Improve problem-solving and algorithmic thinking
+- 🌐 Learn backend development with Node.js, Express.js & MongoDB
+- 🤖 Explore AI-powered web development
+- 💼 Become job-ready and start my professional career
 
 ---
 
