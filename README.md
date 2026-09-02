@@ -1,9 +1,9 @@
-<!-- Banner Image -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Hi%20There,%20I'm%20Your%20Name!&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Hi%20There,%20I'm%20a%20Passionate%20Learner!&fontSize=38&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
 
-<h1 align="center">Frontend & Full-Stack Web Developer</h1>
+<h1 align="center">Aspiring Full-Stack Web Developer</h1>
 
 <p align="center">
   📍 <strong>Location:</strong> Dhaka, Bangladesh &nbsp;|&nbsp; 
@@ -12,17 +12,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & My Learning Journey
 
-- 🚀 **Passion:** Enthusiastic web developer dedicated to building responsive, high-performance web applications.
-- 🎯 **Current Focus:** Deep diving into **React.js**, **Tailwind CSS**, and modern UI frameworks.
-- ⚡ **Current Activity:** Currently exploring **Next.js** & TypeScript to level up my full-stack capabilities.
+- 🎓 **Current Track:** Intensive Web Development Training at **Programming Hero (Batch 14)**.
+- 💡 **Passion:** I love building clean UI and solving real-world problems with code.
+- ⏱️ **Dedication:** Investing **6-8 hours daily** into coding, building projects, and writing clean code.
+- 🔭 **Currently Learning:** React.js, Tailwind CSS, and Modern Frontend Architecture.
+- 🎯 **Next Target:** Backend Development with Node.js, Express.js, and MongoDB.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills I'm Building
 
-#### Frontend & Languages
+#### Frontend & Core Foundations
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -32,7 +34,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
-#### Tools & Platforms
+#### Tools & Learning Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -42,7 +44,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
@@ -55,7 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Coding Activity & Growth
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
