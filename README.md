@@ -8,8 +8,9 @@
 
 <p>
   📍 <strong>Birganj, Dinajpur, Bangladesh</strong> &nbsp;|&nbsp;
-  ✉️<a href="mailto:atiurcodes@gmail.com">atiurcodes@gmail.com
-</a>
+  ✉️ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atiurcodes@gmail.com" target="_blank">
+    atiurcodes@gmail.com
+  </a>
 </p>
 
 ---
