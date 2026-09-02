@@ -8,7 +8,8 @@
 
 <p>
   📍 <strong>Birganj, Dinajpur, Bangladesh</strong> &nbsp;|&nbsp;
-  ✉️ <a href="mailto:atiurcodes@gmail.com">atiurcodes@gmail.com</a>
+  ✉️<a href="mailto:atiurcodes@gmail.com">atiurcodes@gmail.com
+</a>
 </p>
 
 ---
@@ -29,16 +30,22 @@ Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys buildi
 
 ## 🛠️ Skills & Technologies
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Skills" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools and Platforms" />
+</p>
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Currently Learning" />
 </p>
 
 ### Tools & Platforms
@@ -80,16 +87,13 @@ Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys buildi
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=atiurcodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Stats" />
+</p>
 
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=atiurcodes&theme=tokyonight&hide_border=true" alt="Atiur's GitHub Streak" />
+</p>
 
 ---
 
