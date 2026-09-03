@@ -33,24 +33,26 @@ Hi! I'm **Atiur Rahman**, a passionate web development learner who enjoys buildi
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
-### 🎨 Frontend
-
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Skills" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></a>
 </p>
 
-### 🔧 Tools & Platforms
-
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Tools and Platforms" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></a>
 </p>
 
-### 🌱 Currently Learning
-
+### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Currently Learning" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></a>
+</p>
+
+### Tools & Deployment
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /></a>
 </p>
 
 ---
